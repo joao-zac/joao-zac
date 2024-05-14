@@ -1,6 +1,6 @@
 # Olá Mundo! 👋
 
-Sou estudande de ciência da computação 👨‍💻<br>Gosto de criar e aprender sempre mais sobre aplicações web front-end, principalmente em grupo 😉 
+Sou estudande de Ciência da Computação 👨‍💻<br>Gosto de criar e aprender sempre mais sobre aplicações web front-end, principalmente em grupo 😉 
 
 ## Mais sobre mim
 
